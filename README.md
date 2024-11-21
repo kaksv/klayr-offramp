@@ -1,6 +1,6 @@
-# KLAY RAMP
+# KLAY OFF-RAMP
 
-## Klayr - Ramp is a go to for students to exchange their received Klayr tokens to cash on mobile money.
+## Klayr - OFF-Ramp is a go to for students to exchange their received Klayr tokens to cash on mobile money.
 
 
 Welcome to Klayr ramp, a revolutionary Klayr off-ramp solution designed specifically for African students to offramp Klayr tokens to mobile money. Built on the Klayr blockchain as a side chain. Klayr ramp empowers users to seamlessly convert Klayr tokens into local fiat currencies, providing a bridge between the crypto world and traditional financial systems in the region.
