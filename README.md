@@ -3,7 +3,7 @@
 ## Klayr - OFF-Ramp is a go to for students to exchange their received Klayr tokens to cash on mobile money.
 
 
-Welcome to ![Klayr ramp](https://klayr-offramp.vercel.app/), a revolutionary Klayr off-ramp solution designed specifically for African students to offramp Klayr tokens to mobile money. Built on the Klayr blockchain as a side chain. Klayr ramp empowers users to seamlessly convert Klayr tokens into local fiat currencies, providing a bridge between the crypto world and traditional financial systems in the region.
+Welcome to [Klayr ramp](https://klayr-offramp.vercel.app/), a revolutionary Klayr off-ramp solution designed specifically for African students to offramp Klayr tokens to mobile money. Built on the Klayr blockchain as a side chain. Klayr ramp empowers users to seamlessly convert Klayr tokens into local fiat currencies, providing a bridge between the crypto world and traditional financial systems in the region.
 
 Klayr ramp offers a user-friendly interface and a range of features to facilitate easy and secure transactions. The Klayr Ramp swapping widget allowing users to effortlessly swap their Klayr tokens for fiat. Enabling users to receive local fiat money directly into their mobile money accounts.
 
